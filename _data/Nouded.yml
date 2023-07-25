@@ -4,8 +4,9 @@
   requirements:
     - number: 1.1
       name: >
-        Teenusepakkuja poolt volitatud isik täidab ja edastab iga uue teenuse liidestamise avalduse RIA kasutajatoele (help@ria.ee) 
-        või elektroonilise veebivormi kaudu. Avalduse vormi kehtestab haldaja.
+        Teenusepakkuja poolt volitatud isik täidab ja edastab iga uue teenuse
+        liidestamise avalduse RIA kasutajatoele (help@ria.ee) või elektroonilise
+        veebivormi kaudu. Avalduse vormi kehtestab haldaja.
     - number: 1.2
       name: >
         Hetkel kehtiva eesti.ee määruse põhjal täidab Teenusepakkuja avalduses järgnevad punktid:
@@ -66,12 +67,13 @@
 
     - number: 1.3
       name: >
-        Teenuse liidestamine eesti.ee-ga või registeerimisest keeldumine toimub **maksimaalselt 20 tööpäeva** jooksul alates avalduse 
-        esitamisest. Selle käigus kontrollib haldaja teenuse nõuetele vastavust, tehnilist sobivust ning kasutatavust.
+        Teenuse liidestamine eesti.ee-ga või registeerimisest keeldumine toimub
+        **maksimaalselt 20 tööpäeva** jooksul alates avalduse esitamisest. Selle käigus
+        kontrollib haldaja teenuse nõuetele vastavust, tehnilist sobivust ning kasutatavust.
     - number: 1.4
       name: >
-        Teenusepakkuja kontrollib peale teenuse avaldamist eesti.ee eeltoodangu keskkonnas (stage keskkond), kas teenuse töökindlus ja 
-        vajalik funktsionaalsus vastab soovitule. Teenusepakkuja peab arvestama, et teenuse kasutamiseks vajalik funktsionaalsus peab 
+        Teenusepakkuja kontrollib peale teenuse avaldamist eesti.ee eeltoodangu keskkonnas (stage keskkond), kas teenuse töökindlus ja
+        vajalik funktsionaalsus vastab soovitule. Teenusepakkuja peab arvestama, et teenuse kasutamiseks vajalik funktsionaalsus peab
         tulema teenuse kaudu, mitte ei ole eesti.ee funktsionaalsusel põhinev.
       requirements:
         - number: 1.4.1
@@ -79,7 +81,7 @@
             Kui vastab, avaldatakse teenus toodangu keskkonnas esimesel võimalusel.
         - number: 1.4.2
           name: >
-            Kui ei vasta, siis tuvastatakse, kas tekkinud viga on seotud eesti.ee või teenuse endaga ning lepitakse kokku edasised tegevused 
+            Kui ei vasta, siis tuvastatakse, kas tekkinud viga on seotud eesti.ee või teenuse endaga ning lepitakse kokku edasised tegevused
             vea kõrvaldamiseks.
 - name: "II Ärilised ja tehnilised nõuded"
   title: "II Ärilised ja tehnilised nõuded"
@@ -89,25 +91,27 @@
       requirements:
         - number: 2.1.1
           name: >
-            eesti.ee-ga liidestuvad teenused peavad arvestama lõppkasutaja keelevalikuga. Näiteks kui kasutaja on valinud eesti.ee 
+            eesti.ee-ga liidestuvad teenused peavad arvestama lõppkasutaja keelevalikuga. Näiteks kui kasutaja on valinud eesti.ee
             kuvakeeleks inglise keele, siis ühelt teenuselt teisele liikumine ei tohi seda valikut mõjutada.
         - number: 2.1.2
           name: >
             Teenused, mis liidetakse eesti.ee-ga, peavad olema turvatestimisel saanud hinnangu _toodangukõlbulik_.
         - number: 2.1.3
           name: >
-            Teenuse ja eesti.ee liitumislahenduse (kui see on vajalik) turvatestimise tellib RIA pärast seda, kui punktis 2.2 toodud nõuded teenuse visuaalile on täidetud. Turvatestimise kulud katab teenusepakkuja.
+            Teenuse ja eesti.ee liitumislahenduse (kui see on vajalik) turvatestimise tellib RIA pärast seda, kui punktis
+            2.2 toodud nõuded teenuse visuaalile on täidetud. Turvatestimise kulud katab teenusepakkuja.
           requirements:
             - number: 2.1.3.1
               name: >
-                Liitumislahendust turvatestitakse eesti.ee ja liidestuva teenuse testkeskkondades. Testimise ajal ei ole lubatud eesti.ee ega 
+                Liitumislahendust turvatestitakse eesti.ee ja liidestuva teenuse testkeskkondades. Testimise ajal ei ole lubatud eesti.ee ega
                 liidestuva teenuse testkeskkondade muutmine, uuendamine või muul moel manipuleerimine.
         - number: 2.1.4
           name: >
             Teenus peab kasutama täiskomplektseid testandmeid, mida on võimalik eesti.ee testkeskkonnas (stage) teenuse testimisel välja kuvada.
         - number: 2.1.5
           name: >
-            Kui teenus on liidestatud X-tee'ga, siis peavad ka X-tee testkeskkonnas olema teenuse testimiseks täiskomplektsed testandmed. Kui need andmed on seotud kindlate testisikutega, tuleb testisikute andmed edastada haldajale.
+            Kui teenus on liidestatud X-tee'ga, siis peavad ka X-tee testkeskkonnas olema teenuse testimiseks täiskomplektsed
+            testandmed. Kui need andmed on seotud kindlate testisikutega, tuleb testisikute andmed edastada haldajale.
         - number: 2.1.6
           name: >
             Liidestuva teenuse koodivaramusse ei ole soovituslik lisada pikemaid infoartikleid (va abitekstid).
@@ -235,14 +239,15 @@
                     teostab Orbeon XFormsi vormi(de) arenduse;
                 - number: 2.3.10.2
                   name: >
-                    teeb vastava x-tee teenuse riigiportaalile (/GOV/70006317/riigiportaal-citizen) arendus-, test-, stage- ja toodangukeskkonnas kättesaadavaks;
+                    teeb vastava x-tee teenuse riigiportaalile (/GOV/70006317/riigiportaal-citizen)
+                    arendus-, test-, stage- ja toodangukeskkonnas kättesaadavaks;
                 - number: 2.3.10.3
                   name: >
                     testib XForms vormi enne selle toodangusse viimiist riigiportaali poolt;
                 - number: 2.3.10.4
                   name: >
-                    teavitab riigiportaali vormi valmisolekust avaldamiseks toodangu keskkonnas. 
-              name: "**Uue vormi lisamisel**"
+                    teavitab riigiportaali vormi valmisolekust avaldamiseks toodangu keskkonnas.
+            - name: "**Uue vormi lisamisel**"
               requirements:
                 - number: 2.3.11
                   name: >
@@ -258,8 +263,8 @@
                         Uue vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile
                     - number: 2.3.12.2
                       name: >
-                        Soovituslik kuupäev, millal peab vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.  
-              name: "**Vormi muutmisel**"
+                        Soovituslik kuupäev, millal peab vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
+            - name: "**Vormi muutmisel**"
               requirements:
                 - number: 2.3.13
                   name: >
