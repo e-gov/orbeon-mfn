@@ -263,7 +263,7 @@
               requirements:
                 - number: 2.3.13
                   name: >
-                    Igakordsel vormi muutmisel peab teenuse omanik edastama riigiportaalile järgnevad andmed:
+                      Igakordsel vormi muutmisel peab teenuse omanik edastama riigiportaalile järgnevad andmed:
                 requirements:
                   - number: 2.3.13.1
                     name: >
