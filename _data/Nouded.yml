@@ -242,11 +242,11 @@
                 - number: 2.3.10.4
                   name: >
                     teavitab riigiportaali vormi valmisolekust avaldamiseks toodangu keskkonnas.
+            - number: 2.3.11 
               name: "**Uue vormi lisamisel**"
               requirements:
-                - number: 2.3.11
-                  name: >
-                      Uue teenuse lisamisel peab teenusepakkuja  tegema uue avalduse.  Teenusepakkuja poolt volitatud
+                name: >
+                    Uue teenuse lisamisel peab teenusepakkuja  tegema uue avalduse.  Teenusepakkuja poolt volitatud
                       isik täidab ja edastab iga uue teenuse liidestamise avalduse RIA kasutajatoele (help@ria.ee)
                       või elektroonilise veebivormi kaudu. Avalduse vormi kehtestab haldaja.
                 - number: 2.3.12
@@ -259,24 +259,24 @@
                     - number: 2.3.12.2
                       name: >
                         Soovituslik kuupäev, millal peab vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
+            - number: 2.3.13  
               name: "**Vormi muutmisel**"
               requirements:
-                - number: 2.3.13
-                  name: >
-                    Igakordsel vormi muutmisel peab teenuse omanik edastama riigiportaalile järgnevad andmed:
-                  requirements:
-                    - number: 2.3.13.1
-                      name: >
-                        Kirjeldus, mida vormis muudeti.
-                    - number: 2.3.13.2
-                      name: >
-                        Ekraanipildid olukorras "enne" ja "pärast", kus "pärast" piltidel on välja toodud muudetud kohad.
-                    - number: 2.3.12.3
-                      name: >
-                        Muudetud vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile.
-                    - number: 2.3.12.4
-                      name: >
-                        Soovituslik kuupäev, millal peab uuendatud vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
+                name: >
+                  Igakordsel vormi muutmisel peab teenuse omanik edastama riigiportaalile järgnevad andmed:
+                requirements:
+                  - number: 2.3.13.1
+                    name: >
+                      Kirjeldus, mida vormis muudeti.
+                  - number: 2.3.13.2
+                    name: >
+                      Ekraanipildid olukorras "enne" ja "pärast", kus "pärast" piltidel on välja toodud muudetud kohad.
+                  - number: 2.3.12.3
+                    name: >
+                      Muudetud vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile.
+                  - number: 2.3.12.4
+                    name: >
+                      Soovituslik kuupäev, millal peab uuendatud vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
             - number: 2.3.14
               name: >
                 Vormi muutmise sisu vormistatakse lepingu lisana.
