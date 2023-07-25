@@ -258,10 +258,10 @@
                         Uue vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile
                     - number: 2.3.12.2
                       name: >
-                        Soovituslik kuupäev, millal peab vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
-            - number: 2.3.13  
+                        Soovituslik kuupäev, millal peab vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.  
               name: "**Vormi muutmisel**"
               requirements:
+                - number: 2.3.13
                   name: >
                     Igakordsel vormi muutmisel peab teenuse omanik edastama riigiportaalile järgnevad andmed:
                 requirements:
