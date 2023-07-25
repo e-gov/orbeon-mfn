@@ -241,10 +241,10 @@
                     testib XForms vormi enne selle toodangusse viimiist riigiportaali poolt;
                 - number: 2.3.10.4
                   name: >
-                    teavitab riigiportaali vormi valmisolekust avaldamiseks toodangu keskkonnas.
-            - number: 2.3.11 
+                    teavitab riigiportaali vormi valmisolekust avaldamiseks toodangu keskkonnas. 
               name: "**Uue vormi lisamisel**"
               requirements:
+                - number: 2.3.11
                   name: >
                       Uue teenuse lisamisel peab teenusepakkuja  tegema uue avalduse.  Teenusepakkuja poolt volitatud
                       isik täidab ja edastab iga uue teenuse liidestamise avalduse RIA kasutajatoele (help@ria.ee)
