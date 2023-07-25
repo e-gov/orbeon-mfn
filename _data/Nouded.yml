@@ -228,7 +228,7 @@
                 "Orbeon XForms arendusjuhend 13.03.2023"
             - number: 2.3.10
               name: >
-                Teenusepakkuja:
+                Teenusepakkuja
               requirements:
                 - number: 2.3.10.1
                   name: >
