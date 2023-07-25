@@ -268,15 +268,15 @@
                     - number: 2.3.13.1
                       name: >
                         Kirjeldus, mida vormis muudeti.
-                  - number: 2.3.13.2
-                    name: >
-                      Ekraanipildid olukorras "enne" ja "pärast", kus "pärast" piltidel on välja toodud muudetud kohad.
-                  - number: 2.3.12.3
-                    name: >
-                      Muudetud vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile.
-                  - number: 2.3.12.4
-                    name: >
-                      Soovituslik kuupäev, millal peab uuendatud vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
+                    - number: 2.3.13.2
+                      name: >
+                        Ekraanipildid olukorras "enne" ja "pärast", kus "pärast" piltidel on välja toodud muudetud kohad.
+                    - number: 2.3.12.3
+                      name: >
+                        Muudetud vormi faili nimi või nimed koos kausta teekonnaga või link koodivaramus olevale muudetud vormi failile.
+                    - number: 2.3.12.4
+                      name: >
+                        Soovituslik kuupäev, millal peab uuendatud vorm jõudma toodangusse. Täpne kuupäev ja aeg lepitakse kokku riigiportaaliga.
             - number: 2.3.14
               name: >
                 Vormi muutmise sisu vormistatakse lepingu lisana.
