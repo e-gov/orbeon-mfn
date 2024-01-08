@@ -53,7 +53,7 @@
 
         *   Maksimaalne ühel ajal teenust kasutavate lõppkasutajate arv, mille korral on tagatud teenuse kvaliteetne toimimine;
 
-        *   Teenuse planeeritud katkestusest RIA kasutajatoele etteteatamise aeg (vt punkti [2.5.2](https://e-gov.github.io/orbeon-mfn//#2.5.2));
+        *   Teenuse planeeritud katkestusest RIA kasutajatoele etteteatamise aeg (vt punkti [2.4.2](https://e-gov.github.io/orbeon-mfn//#2.4.2));
 
         *   Teenuse tööajal planeeritud katkestuste maksimaalne kogukestus tundides;
 
