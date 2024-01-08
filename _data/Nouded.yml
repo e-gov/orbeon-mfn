@@ -339,7 +339,8 @@
   title: "III Muud nõuded"
   requirements:
     - number: 3.1
-      name: > Teenusepakkuja peab arvestama eesti.ee ekspluatatsiooninõuetega.
+      name: >
+        Teenusepakkuja peab arvestama eesti.ee ekspluatatsiooninõuetega.
     - number: 3.2
       name: >
         Teenusepakkuja peab arvestama eesti.ee määruses toodud nõudeid:
