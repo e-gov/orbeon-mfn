@@ -340,12 +340,9 @@
   requirements:
     - number: 3.1
       name: >
-        Teenusepakkuja peab arvestama eesti.ee ekspluatatsiooninõuetega: [Kinnitatud sla-d](https://confluence.ria.ee/display/RTKS/Kinnitatud+sla-d).
-    - number: 3.2
-      name: >
         Teenusepakkuja peab arvestama eesti.ee määruses toodud nõudeid:
         [https://www.riigiteataja.ee/akt/104102013008?leiaKehtiv](https://www.riigiteataja.ee/akt/104102013008?leiaKehtiv).
-    - number: 3.3
+    - number: 3.2
       name: >
         Teenusepakkuja peab arvestama SDG määruses toodud nõudeid:
         [https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=CELEX:62010TB0484(01)](https://eur-lex.europa.eu/legal-content/ET/ALL/?uri=CELEX:62010TB0484(01)).
